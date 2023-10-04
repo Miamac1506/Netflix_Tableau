@@ -10,4 +10,5 @@ The dataset includes information about Netflix movies and TV shows from around t
 * Compiling statistics on the total number of movies and TV shows categorized by year.
 * Generating insights into the top 10 genres.
 * Providing detailed information on essential movie and TV show attributes such as rating, duration, description, genre, and more.
+  
 ![Netflix](https://github.com/Miamac1506/Netflix_Tableau/assets/145936074/ded74493-6f6d-46bc-b4da-9804f960adb7)
